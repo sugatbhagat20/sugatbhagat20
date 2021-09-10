@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sugatbhagat20
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning ethical hacking
+- 🌱 I’m currently learning CP
 - 💞️ I’m looking to collaborate on some backend technology projects
 - 📫 reach me at sugat.bhagat20@gmail.com
 
