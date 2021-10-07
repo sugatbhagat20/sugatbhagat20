@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sugatbhagat20
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning CP
-- 💞️ I’m looking to collaborate on some backend technology projects
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning blockchain
+- 💞️ I’m looking to collaborate on some really interested technology projects
 - 📫 reach me at sugat.bhagat20@gmail.com
 
 <!---
