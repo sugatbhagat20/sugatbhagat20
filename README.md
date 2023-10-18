@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sugatbhagat20
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on some really interested web projects
 - 📫 reach me at sugat.bhagat20@gmail.com
 
